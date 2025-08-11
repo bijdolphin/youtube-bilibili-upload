@@ -1,0 +1,13 @@
+flask==2.3.3
+flask-cors==4.0.0
+bilibili-api-python==16.1.0
+yt-dlp==2023.7.6
+requests==2.31.0
+werkzeug==2.3.7
+aiohttp==3.8.5
+
+# Optional AI translation dependencies
+openai==0.28.0
+deepl==1.15.0
+google-generativeai==0.3.0
+whisper==1.1.10
